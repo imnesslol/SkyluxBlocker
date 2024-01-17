@@ -1,0 +1,5 @@
+name: SkyluxBlocker
+version: '${project.version}'
+main: com.imnesslol.skyluxblocker.SkyluxBlocker
+authors: [imnesslol]
+description: A simple way to prevent block interactions.
